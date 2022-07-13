@@ -1,0 +1,8 @@
+tolq_auto_client_review: true
+files:
+  - source_file: config/locales/en.yml
+    source_language: en
+    target_languages:
+      - language: nl
+        target_file: config/locales/nl.yml
+        quality: localization
